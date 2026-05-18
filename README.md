@@ -10,7 +10,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-🚀 **Recent Projects:** ElegantStyle , e-health, fintech  
+🚀 **Recent Projects:** SevenOS,Baobab,Le-grin,ElegantStyle  
 🧠 **Interests:** AI, Cybersecurity, Intelligent Systems  
 📚 **Learning mindset:** Continuous improvement & growth  
 
