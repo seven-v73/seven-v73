@@ -123,11 +123,11 @@ I use different technologies depending on the problem rather than defining mysel
 
 **Languages**
 
-`Python` · `TypeScript` · `JavaScript` · `PHP` · `Dart` · `Bash`
+`Python` · `TypeScript` · `JavaScript` · `PHP` · `Dart` · `C`  · `Bash`
 
 **Web & Application**
 
-`React` · `Next.js` · `Node.js` · `Django` · `Laravel` · `Flutter`
+`HTML/CSS` ·`JS` ·`React` · `Next.js` · `Node.js` · `Django` · `Laravel` · `Flutter`
 
 **Data**
 
