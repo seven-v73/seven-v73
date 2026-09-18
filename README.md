@@ -1,16 +1,15 @@
 # Hi, I'm Victoire SAWADOGO
 
-**Software & Cloud Engineer in progress — Data / Systems**
+**Software & Cloud Engineer in progress - Data / Systems**
 
 I build software, explore systems, and turn technical knowledge into practical solutions.
 
-My interests sit at the intersection of **software engineering, cloud infrastructure, data, distributed systems, Linux, and cybersecurity**.
+My interests sit at the intersection of **software engineering, cloud infrastructure, data, distributed systems, Linux, cybersecurity and AI**.
 
-I enjoy understanding how things work beneath the surface — from algorithms and operating systems to networks, databases, APIs, and infrastructure — then using that knowledge to build useful and reliable products.
+I enjoy understanding how things work beneath the surface  from algorithms and operating systems to networks, databases, APIs, and infrastructure  then using that knowledge to build useful and reliable products.
 
 Currently, I'm pursuing a **Master's degree in Big Data, Systems & Cloud (MBDS) at ESATIC**, while strengthening my computer science foundations and building projects around software and systems engineering.
 
----
 
 ## What I'm Exploring
 
@@ -27,7 +26,9 @@ Cloud & Infrastructure
             ↓
 Data & Intelligent Systems
             ↓
-Security & Reliable Systems
+Reliable AI Systems
+             ↓
+AI Security & AI Safety
 ```
 
 My goal is not simply to use technologies, but to understand the systems behind them and learn how to design, build, and operate reliable software.
