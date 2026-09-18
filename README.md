@@ -1,51 +1,191 @@
 # Hi, I'm Victoire SAWADOGO
 
-**Full-stack, mobile and systems-oriented developer** building practical digital products, developer tools and platform experiences.
+**Software & Cloud Engineer in progress — Data / Systems**
 
-My work spans web applications, mobile apps, APIs, Linux-based workflows, automation and product architecture. I like projects that connect solid engineering with real user needs: education, culture, commerce, administration, security and intelligent systems.
+I build software, explore systems, and turn technical knowledge into practical solutions.
 
-## Tech Stack
+My interests sit at the intersection of **software engineering, cloud infrastructure, data, distributed systems, Linux, and cybersecurity**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-EF3B3B?style=for-the-badge&logo=laravel&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I enjoy understanding how things work beneath the surface — from algorithms and operating systems to networks, databases, APIs, and infrastructure — then using that knowledge to build useful and reliable products.
+
+Currently, I'm pursuing a **Master's degree in Big Data, Systems & Cloud (MBDS) at ESATIC**, while strengthening my computer science foundations and building projects around software and systems engineering.
+
+---
+
+## What I'm Exploring
+
+```text
+Algorithms & Computer Science
+            ↓
+Software Engineering
+            ↓
+Operating Systems & Linux
+            ↓
+Networks & Distributed Systems
+            ↓
+Cloud & Infrastructure
+            ↓
+Data & Intelligent Systems
+            ↓
+Security & Reliable Systems
+```
+
+My goal is not simply to use technologies, but to understand the systems behind them and learn how to design, build, and operate reliable software.
+
+---
 
 ## What I Build
 
-- Full-stack web platforms with authentication, dashboards, admin panels and APIs
-- Mobile applications with commerce, roles, media workflows and cloud services
-- Linux/system tooling, automation scripts and developer workflows
-- Product-oriented prototypes for education, culture, marketplace and operations
-- Security-conscious backends with validation, protected routes, monitoring and access control
+### Software
 
-## Featured Work
+* Full-stack web applications
+* Backend services and REST APIs
+* Authentication and authorization systems
+* Administrative and business platforms
+* Mobile applications
 
-- [**SevenOS**](https://github.com/seven-v73/SevenOS) - Arch-based professional OS layer with native system surfaces, mini OS profiles, update routes, package policy and automation tooling.
-- [**Seven Control / MDM_System**](https://github.com/seven-v73/MDM_System) - operational device-management layer based on Veyon, focused on learner computer monitoring, inventory, verification and administration.
-- [**ElegantStyle**](https://github.com/seven-v73/elegantfaso) - Flutter fashion marketplace and styling platform with multi-role accounts, creator/shop spaces, admin governance, media workflows and Firebase services.
-- [**BAOBAB / MonBaobab**](https://github.com/seven-v73/BAOBAB) - full-stack cultural platform for African heritage, combining React, TypeScript, Node.js, Express, MongoDB, e-commerce, communities, content and admin tooling.
-- [**GrinHub / Le Grin**](https://github.com/seven-v73/le-grin) - Next.js, Express, Prisma and PostgreSQL prototype for learning paths, mentorship, company space and member dashboards.
-- **Simplon tools** - procurement, services and device-management projects with Python/JavaScript frontends and backends for operational workflows.
+### Systems
 
-## Focus Areas
+* Linux environments and system tooling
+* Automation and developer workflows
+* Device management solutions
+* Monitoring and operational tools
+* System-oriented applications
 
-Full-stack engineering · Mobile products · Linux workflows · Automation · AI-assisted systems · Cybersecurity · Product architecture
+### Data & Cloud
 
-## Contact
+* Database-driven applications
+* Data-oriented backends
+* Containerized environments
+* Cloud-ready architectures
+* Distributed systems experiments
 
-**Email:** [sawadogovictor12@gmail.com](mailto:sawadogovictor12@gmail.com)  
-**Phone / WhatsApp:** +226 52294398 | +225 0798557035  
+### Practical Digital Products
+
+I like building around real problems in:
+
+**Education · Culture · Commerce · Operations · Administration · Technology**
+
+---
+
+## Selected Projects
+
+### [SevenOS](https://github.com/seven-v73/SevenOS)
+
+A Linux-based **system experience layer** built on Arch Linux and Hyprland.
+
+Exploring how an operating environment can become more contextual, precise, and human-oriented through system surfaces, automation, package policies, and developer workflows.
+
+**Focus:** Linux · Systems · Shell · Automation
+
+---
+
+### [Seven Control / MDM_System](https://github.com/seven-v73/MDM_System)
+
+A device-management and monitoring project designed around educational environments.
+
+The project explores computer inventory, monitoring, administration, and operational workflows for managed learner devices.
+
+**Focus:** Device Management · Networking · Systems · Automation
+
+---
+
+### [MonBaobab](https://github.com/seven-v73/BAOBAB)
+
+A digital platform focused on **African cultures and heritage**.
+
+The project combines content, communities, commerce, and administration into a single full-stack platform.
+
+**Focus:** React · TypeScript · Node.js · Express · MongoDB · APIs
+
+---
+
+### [ElegantStyle](https://github.com/seven-v73/elegantfaso)
+
+A Flutter-based fashion marketplace and styling platform connecting users, creators, and shops.
+
+**Focus:** Flutter · Firebase · Mobile Engineering · Commerce · Multi-role Architecture
+
+---
+
+### [Le Grin](https://github.com/seven-v73/le-grin)
+
+A platform prototype built around learning paths, mentorship, companies, and member spaces.
+
+**Focus:** Next.js · Express · Prisma · PostgreSQL · Platform Architecture
+
+---
+
+## Technologies
+
+I use different technologies depending on the problem rather than defining myself by a single stack.
+
+**Languages**
+
+`Python` · `TypeScript` · `JavaScript` · `PHP` · `Dart` · `Bash`
+
+**Web & Application**
+
+`React` · `Next.js` · `Node.js` · `Django` · `Laravel` · `Flutter`
+
+**Data**
+
+`PostgreSQL` · `MongoDB` · `Firebase`
+
+**Infrastructure & Systems**
+
+`Linux` · `Docker` · `Git` · `Shell`
+
+---
+
+## Currently Learning
+
+I'm deliberately strengthening the foundations behind the technologies I use.
+
+* Algorithms & computational thinking
+* Operating Systems
+* Computer Networks
+* Distributed Systems
+* Cloud Computing
+* Databases & Data Systems
+* Cybersecurity & Cloud Security
+* Machine Learning
+* AI systems and agents
+* Reliable and secure intelligent systems
+
+The objective is simple:
+
+> **Go deeper than the framework. Understand the system.**
+
+
+## Engineering Principles
+
+I believe good engineering starts with understanding the problem before choosing the technology.
+
+* Fundamentals over hype
+* Understanding over copy-paste
+* Systems thinking over isolated code
+* Practical solutions over unnecessary complexity
+* Learning by building
+* Sharing what I learn
+
+
+## Beyond Code
+
+I'm also building **ORICA BYTE**, an initiative focused on turning knowledge into practical impact.
+
+> **Transform knowledge into impact.**
+
+ORICA BYTE explores how people can observe, connect, imagine, build, and amplify knowledge through technology.
+
+
+## Connect
+
+**Email:** [sawadogovictor12@gmail.com](mailto:sawadogovictor12@gmail.com)
+
 **LinkedIn:** [Victoire SAWADOGO](https://www.linkedin.com/in/victoire-sawadogo-679113253/)
 
-> Understand, create, transmit — that's my line of code.
+
+> **Understand. Build. Share.**
+>
+> *That's my line of code.*
