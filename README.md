@@ -8,7 +8,7 @@ I am interested in understanding how computing systems work, how their component
 
 My interests span **computer science, software engineering, operating systems, distributed systems, cloud infrastructure, data, cybersecurity, and intelligent systems**.
 
-I enjoy exploring the foundations behind technology — from algorithms and operating systems to networks, databases, APIs, and distributed architectures — and applying that knowledge to design, build, and improve real-world systems.
+I enjoy exploring the foundations behind technology  from algorithms and operating systems to networks, databases, APIs, and distributed architectures  and applying that knowledge to design, build, and improve real-world systems.
 
 I am currently pursuing a **Master's degree in Big Data, Systems & Cloud (MBDS) at ESATIC**, while continuing to strengthen my computer science foundations and develop practical engineering projects.
 
@@ -179,12 +179,12 @@ I am especially interested in the relationship between **reliability, resource c
 
 The way I approach engineering is guided by a few principles:
 
-- **Fundamentals before frameworks** — understand the principles behind the tools.
-- **Understanding before implementation** — know the problem before choosing a solution.
-- **Systems thinking** — consider interactions, dependencies, and constraints.
-- **Reliability by design** — think about failure, security, and maintainability from the beginning.
-- **Practical engineering** — build solutions that address real needs.
-- **Continuous learning** — learn, experiment, evaluate, and improve.
+- **Fundamentals before frameworks** - understand the principles behind the tools.
+- **Understanding before implementation** - know the problem before choosing a solution.
+- **Systems thinking** - consider interactions, dependencies, and constraints.
+- **Reliability by design** - think about failure, security, and maintainability from the beginning.
+- **Practical engineering** - build solutions that address real needs.
+- **Continuous learning** - learn, experiment, evaluate, and improve.
 
 > Go beyond using technology. Understand how it works, why it works, and where it can fail.
 
